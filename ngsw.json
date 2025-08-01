@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1754052829263,
+  "timestamp": 1754057928867,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -73,7 +73,7 @@
         "/9977.86e929818da0472c.js",
         "/common.ad5f7600cb475f31.js",
         "/index.html",
-        "/main.6e080dba3e9d3c15.js",
+        "/main.316a48d0c6dbfbfe.js",
         "/polyfills.9609756ed23e0656.js",
         "/runtime.c6c50e9cfb43cf24.js",
         "/styles.1e0b5218fd621be0.css"
@@ -89,6 +89,8 @@
       },
       "urls": [
         "/assets/icon/favicon.png",
+        "/assets/icon/icon-192x192.png",
+        "/assets/icon/icon-512x512.png",
         "/assets/images/name1.png",
         "/assets/images/name2.png",
         "/assets/images/name3.png",
@@ -1516,13 +1518,15 @@
     "/964.c8393f2a1af3e882.js": "ee814f82213ab31bd0eae2cf95b103c1b2a82b4b",
     "/9977.86e929818da0472c.js": "f87f5eded0bbed5d20ef3cce47347bee95a9164e",
     "/assets/icon/favicon.png": "7798b8e0eb61d7375c245af78bbf5c916932bf13",
+    "/assets/icon/icon-192x192.png": "a53e880975b7dac9d0f9a974a7ad1d2eb6d10240",
+    "/assets/icon/icon-512x512.png": "29a72918f25aef9aaaa7be6d0c30c7ffa3027637",
     "/assets/images/name1.png": "f7cb32e37b49e173233709b3ece5dd1e534265d2",
     "/assets/images/name2.png": "0b8000f04a008ca97df7eeb2a2fb21650d2f4d12",
     "/assets/images/name3.png": "fe17857c8d542322e51b37e5844561e354943ad0",
     "/assets/shapes.svg": "5413e95adabcb2cb639970051f55e0ddb64ace53",
     "/common.ad5f7600cb475f31.js": "b41715534ae1cdf1d26b3cfdb7635461c6ba1234",
-    "/index.html": "41274306b8374c91545cc388ddae69860082534a",
-    "/main.6e080dba3e9d3c15.js": "1fce45420faae198205f03658f36dad9f5002846",
+    "/index.html": "1c55973bed0d08b1cb8fadd14c59d77eaec3a562",
+    "/main.316a48d0c6dbfbfe.js": "462652ed600912772224672aa84451ead815ff82",
     "/polyfills.9609756ed23e0656.js": "cb1b219411e7f1f4fb87f4d62362a591573906cb",
     "/runtime.c6c50e9cfb43cf24.js": "c3ac9199fe7a85a5d272330cc5a85578a7e545d2",
     "/styles.1e0b5218fd621be0.css": "1d756df58993559d5f0937570ad40b0b3adbd48a",
